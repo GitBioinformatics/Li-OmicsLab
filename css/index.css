@@ -1,91 +1,66 @@
-/*--------------------------------------------------------------
-# Global Sections
---------------------------------------------------------------*/
-section,
-.section {
-  color: var(--default-color);
-  background-color: var(--background-color);
-  padding: 60px 0;
-  scroll-margin-top: 100px;
-  overflow: clip;
+.carousel {
+	position: relative;
+	max-width: 600px;
+	margin: auto;
+	overflow: hidden;
+	border: 2px solid #ddd;
+	border-radius: 10px;
 }
 
-@media (max-width: 1199px) {
-
-  section,
-  .section {
-    scroll-margin-top: 66px;
-  }
+.slides {
+	display: flex;
+	transition: transform 0.5s ease-in-out;
 }
 
-/*--------------------------------------------------------------
-# Global Section Titles
---------------------------------------------------------------*/
-.section-title {
-  text-align: center;
-  padding-bottom: 60px;
-  position: relative;
+.slide {
+	min-width: 100%;
+	box-sizing: border-box;
 }
 
-.section-title h2 {
-  font-size: 22px;
-  font-weight: 500;
-  margin-bottom: 0;
+.prev,
+.next {
+	cursor: pointer;
+	position: absolute;
+	top: 50%;
+	width: auto;
+	padding: 16px;
+	margin-top: -22px;
+	color: white;
+	font-weight: bold;
+	font-size: 18px;
+	transition: 0.6s ease;
+	border-radius: 0 3px 3px 0;
+	user-select: none;
 }
 
-.section-title p {
-  font-size: 15px;
-  margin-bottom: 10px;
+.next {
+	right: 0;
+	border-radius: 3px 0 0 3px;
 }
 
-/*--------------------------------------------------------------
-# About Section
---------------------------------------------------------------*/
-.about .btn-get-started {
-  background-color: var(--accent-color);
-  color: var(--contrast-color);
-  border-radius: 30px;
-  padding: 8px 30px;
-  border: 2px solid transparent;
-  transition: 0.3s all ease-in-out;
-  font-size: 14px;
+.prev:hover,
+.next:hover {
+	background-color: rgba(0, 0, 0, 0.8);
 }
 
-.about .btn-get-started:hover {
-  border-color: var(--accent-color);
-  background-color: transparent;
-  color: var(--accent-color);
+.dots {
+	text-align: center;
+	padding: 10px;
+	background: #ddd;
 }
 
-.about h1 {
-  color: var(--heading-color);
-  font-size: 30px;
+.dot {
+	cursor: pointer;
+	height: 15px;
+	width: 15px;
+	margin: 0 2px;
+	background-color: #bbb;
+	border-radius: 50%;
+	display: inline-block;
+	transition: background-color 0.6s ease;
 }
 
-.about p {
-  line-height: 1.7;
-  color: var(--default-color);
-}
-
-.about .swiper-pagination {
-  position: absolute;
-  bottom: 30px;
-}
-
-.about .swiper-pagination .swiper-pagination-bullet {
-  margin: 0 5px;
-  background: #ffffff;
-  opacity: 0.3;
-}
-
-.about .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active {
-  background: var(--accent-color);
-  opacity: 1;
-}
-
-.about .section-subtitle {
-  font-size: 15px;
-  margin-bottom: 10px;
-  display: block;
-  color: var(--default-color);
+.active,
+.dot:hover {
+	background-color: #717171;
 }
