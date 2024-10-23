@@ -20,7 +20,34 @@ layout: default
 	    <span class="dot" onclick="currentSlide(3)"></span>
 	</div>
 	
+	<script>
+	    let slideIndex = 0;
+	    showSlides();
 	
+	    function plusSlides(n) {
+	        slideIndex += n;
+	        showSlides();
+	    }
+	
+	    function currentSlide(n) {
+	        slideIndex = n - 1;
+	        showSlides();
+	    }
+	
+	    function showSlides() {
+	        const slides = document.querySelectorAll('.slide');
+	        const dots = document.querySelectorAll('.dot');
+	        
+	        if (slideIndex >= slides.length) { slideIndex = 0; }
+	        if (slideIndex < 0) { slideIndex = slides.length - 1; }
+	        
+	        slides.forEach(slide => slide.style.display = 'none');
+	        dots.forEach(dot => dot.classList.remove('active'));
+	        
+	        slides[slideIndex].style.display = 'block';
+	        dots[slideIndex].classList.add('active');
+	    }
+	</script>
 	<header class="masthead text-center">
 		<!-- ======= Culture Category Section ======= -->
 		<section class="category-section">
