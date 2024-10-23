@@ -2,51 +2,63 @@
 layout: default
 ---
 <div class='container'>
-	
-	
+
+
 	<div class="carousel">
-	    <div class="slides">
-	        <div class="slide"><img src="images/slider/img_h_6.jpg" style="width:100%"></div>
-	        <div class="slide"><img src="images/slider/img_h_7.jpg" style="width:100%"></div>
-	        <div class="slide"><img src="images/slider/img_h_8.jpg" style="width:100%"></div>
-	    </div>
-	    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-	    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+		<div class="slides">
+			<div class="slide"><img src="images/slider/img_h_6.jpg" style="width:100%"></div>
+			<div class="slide"><img src="images/slider/img_h_7.jpg" style="width:100%"></div>
+			<div class="slide"><img src="images/slider/img_h_8.jpg" style="width:100%"></div>
+		</div>
+		<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+		<a class="next" onclick="plusSlides(1)">&#10095;</a>
 	</div>
-	
+
 	<div class="dots">
-	    <span class="dot" onclick="currentSlide(1)"></span>
-	    <span class="dot" onclick="currentSlide(2)"></span>
-	    <span class="dot" onclick="currentSlide(3)"></span>
+		<span class="dot" onclick="currentSlide(1)"></span>
+		<span class="dot" onclick="currentSlide(2)"></span>
+		<span class="dot" onclick="currentSlide(3)"></span>
 	</div>
-	
+
 	<script>
-	    let slideIndex = 0;
-	    showSlides();
-	
-	    function plusSlides(n) {
-	        slideIndex += n;
-	        showSlides();
-	    }
-	
-	    function currentSlide(n) {
-	        slideIndex = n - 1;
-	        showSlides();
-	    }
-	
-	    function showSlides() {
-	        const slides = document.querySelectorAll('.slide');
-	        const dots = document.querySelectorAll('.dot');
-	        
-	        if (slideIndex >= slides.length) { slideIndex = 0; }
-	        if (slideIndex < 0) { slideIndex = slides.length - 1; }
-	        
-	        slides.forEach(slide => slide.style.display = 'none');
-	        dots.forEach(dot => dot.classList.remove('active'));
-	        
-	        slides[slideIndex].style.display = 'block';
-	        dots[slideIndex].classList.add('active');
-	    }
+		let slideIndex = 0;
+		showSlides();
+
+		function plusSlides(n) {
+			slideIndex += n;
+			showSlides();
+		}
+
+		function currentSlide(n) {
+			slideIndex = n - 1;
+			showSlides();
+		}
+
+		function showSlides() {
+			const slides = document.querySelectorAll('.slide');
+			const dots = document.querySelectorAll('.dot');
+
+			if (slideIndex >= slides.length) {
+				slideIndex = 0;
+			}
+			if (slideIndex < 0) {
+				slideIndex = slides.length - 1;
+			}
+
+			slides.forEach(slide => slide.style.display = 'none');
+			dots.forEach(dot => dot.classList.remove('active'));
+
+			slides[slideIndex].style.display = 'block';
+			dots[slideIndex].classList.add('active');
+		}
+
+		function autoSlide() {
+			slideIndex++;
+			showSlides();
+			setTimeout(autoSlide, 1000); // Change slide every second
+		}
+
+		autoSlide();
 	</script>
 	<header class="masthead text-center">
 		<!-- ======= Culture Category Section ======= -->
@@ -163,8 +175,7 @@ layout: default
 							</div>
 							<a href="https://pubs.acs.org/doi/abs/10.1021/acs.analchem.3c04607"
 								class="me-4 thumbnail mb-4 mb-lg-0 d-inline-block">
-								<img src="images/post/2024.Sha.Anal.Chem/cover.jpg"
-									alt="" class="img-fluid">
+								<img src="images/post/2024.Sha.Anal.Chem/cover.jpg" alt="" class="img-fluid">
 							</a>
 							<h2 class="mb-2"><a
 									href="https://pubs.acs.org/doi/abs/10.1021/acs.analchem.3c04607">一种人工智能技术的临床组学数据分析方案</a>
@@ -178,8 +189,8 @@ layout: default
 							</div>
 							<a href="https://journals.lww.com/ahm/abstract/9900/integrated_causal_inference_modeling_uncovers.72.aspx"
 								class="me-4 thumbnail mb-4 mb-lg-0 d-inline-block">
-								<img src="images/post/2024.Li.Acupuncture.and.Herbal.Medicine/cover.jpeg"
-									alt="" class="img-fluid">
+								<img src="images/post/2024.Li.Acupuncture.and.Herbal.Medicine/cover.jpeg" alt=""
+									class="img-fluid">
 							</a>
 							<h2 class="mb-2"><a
 									href="https://journals.lww.com/ahm/abstract/9900/integrated_causal_inference_modeling_uncovers.72.aspx">整合因果推断模型揭示慢性疲劳综合征新的致病因果因素和清金益气颗粒的潜在治疗靶点
