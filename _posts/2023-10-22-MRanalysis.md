@@ -1,6 +1,6 @@
 ---
 title: MRanalysis
-description: MRanalysis: A Comprehensive Online Platform for Integrated, Multi-Method Mendelian Randomization and Associated Post-GWAS Analyses
+description: MRanalysis - A Comprehensive Online Platform for Integrated, Multi-Method Mendelian Randomization and Associated Post-GWAS Analyses
 categories: newblog
 header-img: images/post/MRanalysis/GRAPHICAL_ABSTRACT.png
 ---
