@@ -8,9 +8,11 @@ logo: images/news/mpu_logo.png
 
 <img width="50" src="{{site.baseurl}}/{{page.logo}}" data-action="zoom"> 
 
-<strong style="color:#000000;font-weight:bold;font-size:40px;">
+<strong style="color:#000000;font-weight:bold;font-size:40px;line-height:1.25">
   Fully-Funded PhD Opportunity in Deep Learning & Big Data Analysis for Elderly Care and Rehabilitation (Macau)
 </strong>
+
+<a href="../PDF/PhD student recuritment AD_2024-10-11.pdf" target="_blank">PhD student recuritment AD_2024-10-11.pdf</a>. 
 
 ## Project overview
 
@@ -51,8 +53,6 @@ Interested candidates should submit a CV and a cover letter outlining relevant e
 
 <br/>
 
-[Supplementary File](../PDF/PhD student recuritment AD_2024-10-11.pdf)
-
 <br/>
 
 <br/>
@@ -82,3 +82,4 @@ Interested candidates should submit a CV and a cover letter outlining relevant e
 
 
 <hr>
+
