@@ -3,7 +3,6 @@ title: People
 permalink: /people/
 ---
 
-<!DOCTYPE html>
 <html>
 	<head>
 		<meta charset="utf-8">
@@ -16,37 +15,37 @@ permalink: /people/
 			.list {
 				&-post-title {
 					margin-bottom: .25rem;
-
+	
 					a {
 						color: #333;
-
+	
 						&:hover,
 						&:focus {
 							text-decoration: none;
 						}
 					}
 				}
-
+	
 				&-post-date {
 					margin-bottom: 1rem;
 					font-size: .75rem;
 					text-transform: uppercase;
 				}
 			}
-
+	
 			.container {
 				max-width: 88rem;
 				padding: 2rem 1.5rem;
 				margin-left: auto;
 				margin-right: auto;
 			}
-
+	
 			.people {
 				margin: auto;
 				text-align: center;
 				margin-top: 0.75em;
 			}
-
+	
 			h1 {
 				text-align: center;
 				padding-bottom: 0.3em;
@@ -56,7 +55,7 @@ permalink: /people/
 				display: block;
 				color: #FF6600;
 			}
-
+	
 			hr {
 				width: 80%;
 				margin-top: 5px;
@@ -65,15 +64,15 @@ permalink: /people/
 				height: 2px;
 				background-image: linear-gradient(to right, rgba(0, 0, 0, 0), #00C3B6, rgba(0, 0, 0, 0));
 			}
-
+	
 			.name {
 				font-size: 20px;
 			}
-
+	
 			.list-post-title {
 				color: black;
 			}
-
+	
 			.list-item-people {
 				display: inline-block;
 				padding-right: 1em;
@@ -85,30 +84,30 @@ permalink: /people/
 			<div class="pos_header">
 				<h1>Principal Investigator</h1>
 			</div>
-
+	
 			<div class="content list people">
-				<div class="list-item-people">
+				<div class="list-item-people" style="justify-content:left;align-items:left;">
 					<img src="../images/people/kefeng_li.jpg" style="height:270px;">
 					<a href="https://www.mpu.edu.mo/esca/en/likefeng.php" target="_blank"><p class="list-post-title name" style="font-size:30px;">Kefeng Li (李克峰)</p></a>
 				</div>
 			</div>
 			<br>
 			<hr><br><br>
-
+	
 			<!-- Third-year PhD student -->
 			<div class="pos_header">
 				<h1>2022 Graduate Students (Doctor)</h1>
 			</div>
 			<div class="content list people">
-
+	
 				<div class="list-item-people">
 					<p class="list-post-title name">Can Xie (谢灿)</p>
 				</div>
-
+	
 				<div class="list-item-people">
 					<p class="list-post-title name">WeiYu Meng (孟维宇)</p>
 				</div>
-
+	
 				<div class="list-item-people">
 					<p class="list-post-title name">Xiaobing Zhai (翟小兵)</p>
 				</div>
@@ -119,7 +118,7 @@ permalink: /people/
 			</div>
 			<br>
 			<hr><br><br>
-
+	
 			<!-- Second-year PhD student -->
 			<div class="pos_header">
 				<h1>2023 Graduate Students (Doctor)</h1>
@@ -128,15 +127,15 @@ permalink: /people/
 				<div class="list-item-people">
 					<p class="list-post-title name">Gang Luo (罗刚)</p>
 				</div>
-
+	
 				<div class="list-item-people">
 					<p class="list-post-title name">Wei Xu (许巍)</p>
 				</div>
-
+	
 				<div class="list-item-people">
 					<p class="list-post-title name">Hongxin Pan (潘虹鑫)</p>
 				</div>
-
+	
 				<div class="list-item-people">
 					<p class="list-post-title name">Junjun Ji (姬军军)</p>
 				</div>
