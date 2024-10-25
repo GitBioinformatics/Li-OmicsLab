@@ -11,6 +11,14 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 
+93\. Sai Sachin Lingampelly, Jane C Naviaux, Luke S Heuer, Jonathan M Monk, <font title="red">Kefeng Li</font>, Lin Wang, Lori Haapanen, Chelsea A Kelland, Judy Van de Water, Robert K Naviaux (2024). **[Metabolic network analysis of pre-ASD newborns and 5-year-old children with autism spectrum disorder](https://www.nature.com/articles/s42003-024-06102-y)**. *<u>Communications Biology</u>* (IF: 5.097), 10.1038/s42003-024-06102-y. [Full Text](../PDF/2024/s42003-024-06102-y.pdf)
+
+<img src='../PDF/2024/img/42003_2024_6102_Fig1_HTML.jpg' style="max-height:300px">
+
+92\. Lili Hong, Wei Wang, Shiyu Wang, Wandi Hu, Yuyang Sha, Xiaoyan Xu, Xiaoying Wang, <font title="red">Kefeng Li</font>, Hongda Wang, Xiumei Gao, Dean Guo, Wenzhi Yang (2024). **[Software-aided efficient identification of the components of compound formulae and their metabolites in rats by UHPLC/IM-QTOF-MS and an in-house high-definition MS2 library: Sishen formula as a case](https://www.sciencedirect.com/science/article/pii/S2095177924000911)**. *<u>Journal of Pharmaceutical Analysis</u>* (IF: 6.066), 10.1016/j.jpha.2024.100994.
+
+<img src='../PDF/2024/img/1-s2.0-S2095177924000911-ga1_lrg.jpg' style="max-height:300px">
+
 91\. Xue Ge, Senwei Feng, Linlin Bian, Mingjuan Wang, <font title="red">Kefeng Li</font>, Xu Wang (2024). **[Determination of parabens in breast milk using stir bar sorptive extraction coupled with UHPLC-UV](https://www.sciencedirect.com/science/article/pii/S0039914023013607)**. *<u>Talanta</u>* (IF: 5.603), 10.1016/j.talanta.2023.125609.
 
 <img src='../PDF/2024/img/1-s2.0-S0039914023013607-ga1_lrg.jpg' style="max-height:300px">
