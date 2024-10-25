@@ -15,7 +15,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 84\. Junrong Li, Xiaobing Zhai, Jixing Liu, Chi Kin Lam, Weiyu Meng, Yuefei Wang, Shu Li, Yapeng Wang, Kefeng Li (2024). [Integrated Causal Inference Modeling Uncovers Novel Causal Factors and Potential Therapeutic Targets of Qingjin Yiqi Granules for Chronic Fatigue Syndrome](https://journals.lww.com/ahm/fulltext/2024/03000/integrated_causal_inference_modeling_uncovers.11.aspx). *<u>Acupuncture and Herbal Medicine</u>*, 10.1097/HM9.0000000000000098.
 
-<img src='PDF/2024/img/GAPreview.02233705-202403000-00011.ga.jpeg' style="max-height:300px">
+<img src='../PDF/2024/img/GAPreview.02233705-202403000-00011.ga.jpeg' style="max-height:300px">
 
 # 2023
 
