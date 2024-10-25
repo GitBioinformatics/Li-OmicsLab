@@ -7,7 +7,21 @@ For those interested in numbers, see Kefeng Li (李克峰)'s [google scholar cit
 
 We try to include links for all of our papers. Some of the links open PDFs, others direct you to a journal's site where that particular publication is available for download. If you cannot access one of our papers, let us know. The copyright notice for these papers is listed at the bottom of the page.
 
+# 2024
+
+
+
+
+
+84\. Junrong Li, Xiaobing Zhai, Jixing Liu, Chi Kin Lam, Weiyu Meng, Yuefei Wang, Shu Li, Yapeng Wang, Kefeng Li (2024). [Integrated Causal Inference Modeling Uncovers Novel Causal Factors and Potential Therapeutic Targets of Qingjin Yiqi Granules for Chronic Fatigue Syndrome](https://journals.lww.com/ahm/fulltext/2024/03000/integrated_causal_inference_modeling_uncovers.11.aspx). *<u>Acupuncture and Herbal Medicine</u>*, 10.1097/HM9.0000000000000098.
+
+<img src='PDF/2024/img/GAPreview.02233705-202403000-00011.ga.jpeg' style="max-height:300px">
+
 # 2023
+
+83\. Lisa A Pan, Jane C Naviaux, Lin Wang, <font title="red">Kefeng Li</font>, Jonathan M Monk, Sai Sachin Lingampelly, Anna Maria Segreti, Kaitlyn Bloom, Jerry Vockley, Mark A Tarnopolsky, David N Finegold, David G Peters, Robert K Naviaux (2023). [Metabolic features of treatment-refractory major depressive disorder with suicidal ideation](https://link.springer.com/chapter/10.1007/978-981-99-8469-5_22). *<u>Translational psychiatry</u>*  (IF: 5.800), 10.1038/s41398-023-02696-9. [Full Text](../PDF/2023/s41398-023-02696-9.pdf)
+
+82\. Yuyang Sha, Weiyu Meng, Xiaobing Zhai, Can Xie, <font title="red">Kefeng Li</font> (2023). [Accurate Facial Landmark Detector via Multi-scale Transformer](https://link.springer.com/chapter/10.1007/978-981-99-8469-5_22). *<u>Pattern Recognition and Computer Vision</u>*, 10.1007/978-981-99-8469-5_22. 
 
 81\. Abao Xing, Henry H Y Tong, Songyan Liu, Xiaobing Zhai, Li Yu, <font title="red">Kefeng Li</font> (2023). The causal association between obesity and gastric cancer and shared molecular signatures: a large-scale Mendelian randomization and multi-omics analysis. *<u>Frontiers in Oncology</u>*, 26;13:1091958. doi:10.3389/fonc.2023.1091958. [Full Text](../PDF/2023/fonc.2023.1091958.pdf)
 
