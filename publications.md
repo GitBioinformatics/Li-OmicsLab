@@ -11,6 +11,16 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 
+97\. Yawen Lu, Ningfang Du, Xuhao Fang, Weiquan Shu, Wei Liu, Xinxin Xu, Yao Ye, Li Xiao, Renling Mao, <font title="red">Kefeng Li</font>, Guangwu Lin, Shihong Li (2024). **[Identification of T2W hypointense ring as a novel noninvasive indicator for glioma grade and IDH genotype](https://link.springer.com/article/10.1186/s40644-024-00726-3)**. *<u>Cancer Imaging</u>* (IF: 3.444), 10.1186/s40644-024-00726-3. [Full Text](../PDF/2024/s40644-024-00726-3.pdf)
+
+96\. Siqi Chen, Nan Gao, Chunzhi Li, Fei Zhai, Xiwei Jiang, Peng Zhang, Jibin Guan, <font title="red">Kefeng Li</font>, Rongwu Xiang, Guixia Ling (2024). **[DrugSK: A Stacked Ensemble Learning Framework for Predicting Drug Combinations of Multiple Diseases](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.4c00296)**. *<u>Journal of Chemical Information and Modeling</u>* (IF: 5.582), 10.1021/acs.jcim.4c00296.
+
+95\. Wei Xu, Ruiya Guo, Pengyu Chen, Li Li, Maomao Gu, Hao Sun, Lingyan Hu, Zumin Wang, <font title="red">Kefeng Li</font> (2024). **[Cherry growth modeling based on Prior Distance Embedding contrastive learning: Pre-training, anomaly detection, semantic segmentation, and temporal modeling](https://www.sciencedirect.com/science/article/pii/S0168169924003648)**. *<u>Computers and Electronics in Agriculture</u>* (IF: 7.617), 10.1016/j.compag.2024.108973.
+
+94\. Linlin Bian, Xue Ge, Senwei Feng, Guangxuan Chen, <font title="red">Kefeng Li</font>, Xu Wang (2024). **[Determination of chloropropanol esters and glycidyl esters in instant noodles based on solid-phase microextraction with chitosan-β-cyclodextrin coated fiber](https://www.sciencedirect.com/science/article/pii/S0308814624000670)**. *<u>Food Chemistry</u>* (IF: 8.433), 10.1016/j.foodchem.2024.138419.
+
+<img src='../PDF/2024/img/1-s2.0-S0308814624000670-ga1_lrg.jpg' style="max-height:300px">
+
 93\. Sai Sachin Lingampelly, Jane C Naviaux, Luke S Heuer, Jonathan M Monk, <font title="red">Kefeng Li</font>, Lin Wang, Lori Haapanen, Chelsea A Kelland, Judy Van de Water, Robert K Naviaux (2024). **[Metabolic network analysis of pre-ASD newborns and 5-year-old children with autism spectrum disorder](https://www.nature.com/articles/s42003-024-06102-y)**. *<u>Communications Biology</u>* (IF: 5.097), 10.1038/s42003-024-06102-y. [Full Text](../PDF/2024/s42003-024-06102-y.pdf)
 
 <img src='../PDF/2024/img/42003_2024_6102_Fig1_HTML.jpg' style="max-height:300px">
