@@ -13,7 +13,13 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 
-84\. Junrong Li, Xiaobing Zhai, Jixing Liu, Chi Kin Lam, Weiyu Meng, Yuefei Wang, Shu Li, Yapeng Wang, Kefeng Li (2024). [Integrated Causal Inference Modeling Uncovers Novel Causal Factors and Potential Therapeutic Targets of Qingjin Yiqi Granules for Chronic Fatigue Syndrome](https://journals.lww.com/ahm/fulltext/2024/03000/integrated_causal_inference_modeling_uncovers.11.aspx). *<u>Acupuncture and Herbal Medicine</u>*, 10.1097/HM9.0000000000000098.
+86\. Weiyu Meng, Hongxin Pan, Yuyang Sha, Xiaobing Zhai, Abao Xing, Sai Sachin Lingampelly, Srinivasa R Sripathi, Yuefei Wang, <font title="red">Kefeng Li</font> (2024). [Metabolic Connectome and Its Role in the Prediction, Diagnosis, and Treatment of Complex Diseases](https://www.mdpi.com/2218-1989/14/2/93). *<u>Metabolites</u>* (IF: 3.411), 10.3390/microorganisms12010148. [Full Text](../PDF/2024/metabolites-14-00093.pdf)
+
+85\. Abao Xing, Hoi Man Ng, Huining Jiao, <font title="red">Kefeng Li</font>, Qianhong Ye (2024). [The Prevalence, Epidemiological, and Molecular Characterization of Methicillin-Resistant *Staphylococcus aureus* (MRSA) in Macau (2017–2022)](https://www.mdpi.com/2076-2607/12/1/148). *<u>Microorganisms</u>* (IF: 4.042), 10.3390/microorganisms12010148. [Full Text](../PDF/2024/microorganisms-12-00148.pdf)
+
+<img src='../PDF/2024/img/microorganisms-12-00148-g001.jpg' style="max-height:300px">
+
+84\. Junrong Li, Xiaobing Zhai, Jixing Liu, Chi Kin Lam, Weiyu Meng, Yuefei Wang, Shu Li, Yapeng Wang, <font title="red">Kefeng Li</font> (2024). [Integrated Causal Inference Modeling Uncovers Novel Causal Factors and Potential Therapeutic Targets of Qingjin Yiqi Granules for Chronic Fatigue Syndrome](https://journals.lww.com/ahm/fulltext/2024/03000/integrated_causal_inference_modeling_uncovers.11.aspx). *<u>Acupuncture and Herbal Medicine</u>*, 10.1097/HM9.0000000000000098.
 
 <img src='../PDF/2024/img/GAPreview.02233705-202403000-00011.ga.jpeg' style="max-height:300px">
 
