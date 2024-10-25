@@ -9,9 +9,21 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 # 2024
 
+105\. Guangxuan Chen, Huicong Yuan, Lumei Zhang, Jingran Zhang, <font title="red">Kefeng Li</font>, Xu Wang (2024). **[Pancreatic lipase immobilization on cellulose filter paper for inhibitors screening and network pharmacology study of anti-obesity mechanism](https://www.sciencedirect.com/science/article/pii/S0039914024011299)**. *<u>Talanta</u>* (IF: 5.603), 10.1016/j.talanta.2024.126750.
 
+<img src='../PDF/2024/img/1-s2.0-S0039914024011299-ga1_lrg.jpg' style="max-height:300px">
 
+104\. Zhifan Li, Yanrong Li, Xinrong Tang, Abao Xing, Jianlin Lin, Junrong Li, Junjun Ji, Tiantian Cai, Ke Zheng, Sai Sachin Lingampelly, <font title="red">Kefeng Li</font> (2024). **[Causal Metabolomic and Lipidomic Analysis of Circulating Plasma Metabolites in Autism: A Comprehensive Mendelian Randomization Study with Independent Cohort Validation](https://www.mdpi.com/2218-1989/14/10/557)**. *<u>Metabolites</u>* (IF: 3.411), 10.3390/metabo14100557. [Full Text](../PDF/2024/metabolites-14-00557.pdf)
 
+103\. Can Xie, Xiaobing Zhai, Haiyang Chi, Wenxiang Li, Xiaolin Li, Yuyang Sha, <font title="red">Kefeng Li</font> (2024). **[A Novel Fusion Pruning-Processed Lightweight CNN for Local Object Recognition on Resource-Constrained Devices](https://ieeexplore.ieee.org/abstract/document/10707072/)**. *<u>IEEE Transactions on Consumer Electronics</u>* (IF: 4.000), 10.1109/TCE.2024.3475517.
+
+102\. Wenjie Zhang, Xiaobing Zhai, Chan Zhang, Song Cheng, Chaoqing Zhang, Jinji Bai, Xuan Deng, Junjun Ji, Ting Li, Yu Wang, Henry HY Tong, Junfeng Li, <font title="red">Kefeng Li</font> (2024). **[Regional brain structural network topology mediates the associations between white matter damage and disease severity in first-episode, Treatment-naïve pubertal children with major depressive disorder](https://www.sciencedirect.com/science/article/pii/S0925492724000854)**. *<u>Psychiatry Research: Neuroimaging</u>* (IF: 2.020), 10.1016/j.pscychresns.2024.111862.
+
+<img src='../PDF/2024/img/1-s2.0-S0925492724000854-ga1_lrg.jpg' style="max-height:300px">
+
+101\. Wenhui Li, Hua Dong, Kejing Niu, Huan-Yu Wang, Wenqian Cheng, Hualong Song, An-Kang Ying, Xiaobing Zhai, <font title="red">Kefeng Li</font>, Huijuan Yu, Dong-Sheng Guo, Yuefei Wang (2024). **[Analyzing urinary hippuric acid as a metabolic health biomarker through a supramolecular architecture](https://www.sciencedirect.com/science/article/pii/S0039914024008592)**. *<u>Talanta</u>* (IF: 5.603), 10.1016/j.talanta.2024.126480.
+
+<img src='../PDF/2024/img/1-s2.0-S0039914024008592-ga1_lrg.jpg' style="max-height:300px">
 
 100\. Meiting Jiang, Yuyang Sha, Yadan Zou, Xiaoyan Xu, Mengxiang Ding, Xu Lian, Hongda Wang, Qilong Wang, <font title="red">Kefeng Li</font>, De-an Guo, Wenzhi Yang (2024). **[Integration of deep neutral network modeling and LC-MS-based pseudo-targeted metabolomics to discriminate easily confused ginseng species](https://www.sciencedirect.com/science/article/pii/S2095177924002132)**. *<u>Journal of Pharmaceutical Analysis</u>* (IF: 6.066), 10.1016/j.jpha.2024.101116.
 
