@@ -87,7 +87,7 @@ permalink: /people/
 	
 			<div class="content list people">
 				<div class="list-item-people" style="justify-content:left;align-items:left;">
-					<img src="../images/people/kefeng_li.jpg" style="height:270px;">
+					<img src="../images/people/kefeng_li.jpg" style="height:270px;margin-left:25px">
 					<a href="https://www.mpu.edu.mo/esca/en/likefeng.php" target="_blank"><p class="list-post-title name" style="font-size:30px;">Kefeng Li (李克峰)</p></a>
 				</div>
 			</div>
