@@ -4,7 +4,7 @@ title:              "Li-OmicsLab at the Macao Polytechnic University"
 description:        "Li-OmicsLab is a research group of Macao Polytechnic University based on multi-omics research on the pathogenesis of complex chronic diseases, discovery of new drug targets, drug mechanism of action, and toxicological evaluation applications."
 
 # URL
-url:                https://github.com/Li-OmicsLab
+url:                https://github.com/Li-OmicsLab-MPU
 baseurl:
 wwwurl:             http://liomicslab.net
 
@@ -58,7 +58,7 @@ defaults:
       layout:       "profile"
 
 
-collections:
-  people:
-    output: true
-    permalink: /people/:title/index.html
+#collections:
+#  people:
+#    output: true
+#    permalink: /people/:title/index.html
