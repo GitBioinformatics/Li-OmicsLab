@@ -169,7 +169,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 17\. Jane C Naviaux, Lin Wang, <font title="red">Kefeng Li</font>; Bright A, Alaynick William A, Williams Kenneth R, Powell Susan B, Naviaux Robert K (2015). **Antipurinergic therapy corrects the autism-like features in the Fragile X (Fmr1 knockout) mouse model**. *<u>Molecular Autism</u>* (IF: 6.503), 6(1), 1–. doi:10.1186/2040-2392-6-1. [Full Text](../PDF/2015/2040-2392-6-1.pdf)   
 
-# 2014
+# ~2014
 
 16\. Song Cui, Jinghua Liu, Xiantao Song, Guolin Ma,  Benjun Du, Shuzheng Lv, Lijun Meng, Quansheng Gao, <font title="red">Kefeng Li</font> (2014). **A Novel Stent Coated with Antibodies to Endoglin Inhibits Neointimal Formation of Porcine Coronary Arteries**. *<u>BioMed Research International</u>* (IF: 3.246), 1–7. doi:10.1155/2014/428619. [Full Text](../PDF/2014/2014%2F428619.pdf)   
 
@@ -185,31 +185,21 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 10\. Naviaux J C, Schuchbauer M A, <font title="red">Kefeng Li</font>, Wang L, Risbrough V B, Powell S B, Naviaux R K (2014). **Reversal of autism-like behaviors and metabolism in adult mice with single-dose antipurinergic therapy**. *<u>Translational Psychiatry</u>* (IF: 7.989), 4(6), e400–. doi:10.1038/tp.2014.33. [Full Text](../PDF/2014/tp.2014.33.pdf)  
 
-# 2013
-
 9\. Guolin Ma, Rongjie Bai, Huijie Jiang, Xuejia Hao, Zaisheng Ling, <font title="red">Kefeng Li</font> (2013). **Assessment of Hemodynamics in a Rat Model of Liver Cirrhosis with Precancerous Lesions Using Multislice Spiral CT Perfusion Imaging**. *<u>BioMed Research International</u>* (IF: 3.246), 1–9. doi:10.1155/2013/813174. [Full Text](../PDF/2013/2013%2F813174.pdf) 
 
 8\. Ensen Ma, Guolin Ma, Hongwei Yu, Wang Wu, <font title="red">Kefeng Li</font> (2013). **Assessment of Myocardial Bridge and Mural Coronary Artery Using ECG-Gated 256-Slice CT Angiography: A Retrospective Study**, *<u>The Scientific World Journal</u>* (IF: 2.294), 1–6. doi:10.1155/2013/947876. [Full Text](../PDF/2013/2013%2F947876.pdf) 
 
 7\. Xu Wang, <font title="red">Kefeng Li</font>, Erwin Adams, Ann Van Schepdael (2013). **Capillary Electrophoresis–Mass Spectrometry in Metabolomics: The Potential for Driving Drug Discovery and Development**, *<u>Current Drug Metabolism</u>* (IF: 3.408), 14(7), 807-813. doi:10.2174/13892002113149990101. [Full Text](../PDF/2013/13892002113149990101.pdf) 
 
-# 2012
-
 6\. Zhiying Dou, <font title="red">Kefeng Li</font>, Ping Wang, Liu Cao (2012). **Effect of Wine and Vinegar Processing of Rhizoma Corydalis on the Tissue Distribution of Tetrahydropalmatine, Protopine and Dehydrocorydaline in Rats**, *<u>Molecules</u>* (IF: 4.927), 17(12), 951–970. doi:10.3390/molecules17010951. [Full Text](../PDF/2012/molecules17010951.pdf) 
 
 5\. <span><font title="red">Kefeng Li</font></span>, Ramana R Pidatala, Wusirika Ramakrishna (2012). **Mutational, proteomic and metabolomic analysis of a plant growth promoting copper-resistant <em>Pseudomonas</em> spp.**, 335(2), *<u>FEMS Microbiology Letters</u>* (IF: 2.820), doi:10.1111/j.1574-6968.2012.02646.x. [Full Text](../PDF/2012/j.1574-6968.2012.02646.x.pdf)
-
-# 2011
 
 4\. <span><font title="red">Kefeng Li</font></span>, Wusirika Ramakrishna (2011). **Effect of multiple metal resistant bacteria from contaminated lake sediments on metal accumulation and plant growth**, *<u>Journal of Hazardous Materials</u>* (IF: 14.224), 189(1-2), 531–539. doi:10.1016/j.jhazmat.2011.02.075. [Full Text](../PDF/2011/j.jhazmat.2011.02.075.pdf)
 
 3\. Ramakrishna Wusirika, <font title="red">Kefeng Li</font>, Ronald L. Phillips, and Jeffrey L. Bennetzen (2011). **Wild Crop Relatives: Genomic and Breeding Resources \|\| Zea**, 10.1007/978-3-642-14228-4(Chapter 11), 457–488. doi:10.1007/978-3-642-14228-4_11. [Full Text](../PDF/2011/978-3-642-14228-4_11.pdf)
 
-# 2009
-
 2\. WenYuan Gao, <font title="red">Kefeng Li</font>, Shuo Yan, XiuMei Gao, LiMin Hu (2009). **Effects of space flight on DNA mutation and secondary metabolites of licorice (Glycyrrhiza uralensisFisch.)**,  *<u>Science in China. Series C, Life Sciences</u>*, 52(10), 977–981.* doi:10.1007/s11427-009-0120-6. [Full Text](../PDF/2009/s11427-009-0120-6.pdf)
-
-# 2008
 
 1\. Xu Wang, WenYuan Gao, LiMing Zhang, PeiGen Xiao, LiPing Yao, Yi Liu, <font title="red">Kefeng Li</font>, WeiGuang Xie (2008). **Study on the morphology, crystalline structure and thermal properties of yam starch acetates with different degrees of substitution**, *<u>Science in China. Series B, Chemistry</u>*, 51(9), 859–865. doi:10.1007/s11426-008-0089-1. [Full Text](../PDF/2008/s11426-008-0089-1.pdf)
 
