@@ -11,25 +11,39 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 
+91\. Xue Ge, Senwei Feng, Linlin Bian, Mingjuan Wang, <font title="red">Kefeng Li</font>, Xu Wang (2024). **[Determination of parabens in breast milk using stir bar sorptive extraction coupled with UHPLC-UV](https://www.sciencedirect.com/science/article/pii/S0039914023013607)**. *<u>Talanta</u>* (IF: 5.603), 10.1016/j.talanta.2023.125609.
 
+<img src='../PDF/2024/img/1-s2.0-S0039914023013607-ga1_lrg.jpg' style="max-height:300px">
 
-86\. Weiyu Meng, Hongxin Pan, Yuyang Sha, Xiaobing Zhai, Abao Xing, Sai Sachin Lingampelly, Srinivasa R Sripathi, Yuefei Wang, <font title="red">Kefeng Li</font> (2024). [Metabolic Connectome and Its Role in the Prediction, Diagnosis, and Treatment of Complex Diseases](https://www.mdpi.com/2218-1989/14/2/93). *<u>Metabolites</u>* (IF: 3.411), 10.3390/microorganisms12010148. [Full Text](../PDF/2024/metabolites-14-00093.pdf)
+90\. <font title="red">Kefeng Li</font>, Henry Hoi Yee Tong, Yuwei Chen, Yizhu Sun, Jing Wang (2024). **[The emerging roles of next-generation metabolomics in critical care nutrition](https://www.tandfonline.com/doi/abs/10.1080/10408398.2022.2113761)**. *<u>Critical Reviews in Food Science and Nutrition</u>* (IF: 8.487), 10.1080/10408398.2022.2113761. [Full Text](../PDF/2024/10.108010408398.2022.2113761.pdf)
 
-85\. Abao Xing, Hoi Man Ng, Huining Jiao, <font title="red">Kefeng Li</font>, Qianhong Ye (2024). [The Prevalence, Epidemiological, and Molecular Characterization of Methicillin-Resistant *Staphylococcus aureus* (MRSA) in Macau (2017–2022)](https://www.mdpi.com/2076-2607/12/1/148). *<u>Microorganisms</u>* (IF: 4.042), 10.3390/microorganisms12010148. [Full Text](../PDF/2024/microorganisms-12-00148.pdf)
+<img src='../PDF/2024/img/bfsn_a_2113761_uf0001_c.jpg' style="max-height:300px">
+
+89\. Yuyang Sha, Weiyu Meng, Gang Luo, Xiaobing Zhai, Henry HY Tong, Yuefei Wang, <font title="red">Kefeng Li</font> (2024). **[MetDIT: Transforming and Analyzing Clinical Metabolomics Data with Convolutional Neural Networks](https://pubs.acs.org/doi/abs/10.1021/acs.analchem.3c04607)**. *<u>Analytical Chemistry</u>* (IF: 6.656), 10.1021/acs.analchem.3c04607.
+
+<img src='../PDF/2024/img/images_medium_ac3c04607_0005.png' style="max-height:300px">
+
+88\. Jing Wu, Huijie Feng, Yaxiong Zhao, Junfeng Li, Ting Li, <font title="red">Kefeng Li</font> (2024). **[Neuroimaging features in a patient with non-ketotic hyperglycaemic seizures: A case report](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10895633/)**. *<u>World Journal of Clinical Cases</u>* (IF: 0.955), 10.12998/wjcc.v12.i5.1004. [Full Text](../PDF/2024/WJCC-12-1004.pdf)
+
+87\. Zhang Huili, <font title="red">Kefeng Li</font>, Khue Vu Nguyen (2024). **[Climate change: approach to intervention using expression vector for carbonic anhydrase via glycosylphosphatidylinositol](https://www.tandfonline.com/doi/abs/10.1080/15257770.2023.2238781)**. *<u>Nucleosides, Nucleotides & Nucleic Acids</u>* (IF: 1.221), 10.1080/15257770.2023.2238781.
+
+86\. Weiyu Meng, Hongxin Pan, Yuyang Sha, Xiaobing Zhai, Abao Xing, Sai Sachin Lingampelly, Srinivasa R Sripathi, Yuefei Wang, <font title="red">Kefeng Li</font> (2024). **[Metabolic Connectome and Its Role in the Prediction, Diagnosis, and Treatment of Complex Diseases](https://www.mdpi.com/2218-1989/14/2/93)**. *<u>Metabolites</u>* (IF: 3.411), 10.3390/microorganisms12010148. [Full Text](../PDF/2024/metabolites-14-00093.pdf)
+
+85\. Abao Xing, Hoi Man Ng, Huining Jiao, <font title="red">Kefeng Li</font>, Qianhong Ye (2024). **[The Prevalence, Epidemiological, and Molecular Characterization of Methicillin-Resistant *Staphylococcus aureus* (MRSA) in Macau (2017–2022)](https://www.mdpi.com/2076-2607/12/1/148)**. *<u>Microorganisms</u>* (IF: 4.042), 10.3390/microorganisms12010148. [Full Text](../PDF/2024/microorganisms-12-00148.pdf)
 
 <img src='../PDF/2024/img/microorganisms-12-00148-g001.jpg' style="max-height:300px">
 
-84\. Junrong Li, Xiaobing Zhai, Jixing Liu, Chi Kin Lam, Weiyu Meng, Yuefei Wang, Shu Li, Yapeng Wang, <font title="red">Kefeng Li</font> (2024). [Integrated Causal Inference Modeling Uncovers Novel Causal Factors and Potential Therapeutic Targets of Qingjin Yiqi Granules for Chronic Fatigue Syndrome](https://journals.lww.com/ahm/fulltext/2024/03000/integrated_causal_inference_modeling_uncovers.11.aspx). *<u>Acupuncture and Herbal Medicine</u>*, 10.1097/HM9.0000000000000098.
+84\. Junrong Li, Xiaobing Zhai, Jixing Liu, Chi Kin Lam, Weiyu Meng, Yuefei Wang, Shu Li, Yapeng Wang, <font title="red">Kefeng Li</font> (2024). **[Integrated Causal Inference Modeling Uncovers Novel Causal Factors and Potential Therapeutic Targets of Qingjin Yiqi Granules for Chronic Fatigue Syndrome](https://journals.lww.com/ahm/fulltext/2024/03000/integrated_causal_inference_modeling_uncovers.11.aspx)**. *<u>Acupuncture and Herbal Medicine</u>*, 10.1097/HM9.0000000000000098.
 
 <img src='../PDF/2024/img/GAPreview.02233705-202403000-00011.ga.jpeg' style="max-height:300px">
 
 # 2023
 
-83\. Lisa A Pan, Jane C Naviaux, Lin Wang, <font title="red">Kefeng Li</font>, Jonathan M Monk, Sai Sachin Lingampelly, Anna Maria Segreti, Kaitlyn Bloom, Jerry Vockley, Mark A Tarnopolsky, David N Finegold, David G Peters, Robert K Naviaux (2023). [Metabolic features of treatment-refractory major depressive disorder with suicidal ideation](https://link.springer.com/chapter/10.1007/978-981-99-8469-5_22). *<u>Translational psychiatry</u>*  (IF: 5.800), 10.1038/s41398-023-02696-9. [Full Text](../PDF/2023/s41398-023-02696-9.pdf)
+83\. Lisa A Pan, Jane C Naviaux, Lin Wang, <font title="red">Kefeng Li</font>, Jonathan M Monk, Sai Sachin Lingampelly, Anna Maria Segreti, Kaitlyn Bloom, Jerry Vockley, Mark A Tarnopolsky, David N Finegold, David G Peters, Robert K Naviaux (2023). **[Metabolic features of treatment-refractory major depressive disorder with suicidal ideation](https://link.springer.com/chapter/10.1007/978-981-99-8469-5_22)**. *<u>Translational psychiatry</u>*  (IF: 5.800), 10.1038/s41398-023-02696-9. [Full Text](../PDF/2023/s41398-023-02696-9.pdf)
 
-82\. Yuyang Sha, Weiyu Meng, Xiaobing Zhai, Can Xie, <font title="red">Kefeng Li</font> (2023). [Accurate Facial Landmark Detector via Multi-scale Transformer](https://link.springer.com/chapter/10.1007/978-981-99-8469-5_22). *<u>Pattern Recognition and Computer Vision</u>*, 10.1007/978-981-99-8469-5_22. 
+82\. Yuyang Sha, Weiyu Meng, Xiaobing Zhai, Can Xie, <font title="red">Kefeng Li</font> (2023). **[Accurate Facial Landmark Detector via Multi-scale Transformer](https://link.springer.com/chapter/10.1007/978-981-99-8469-5_22)**. *<u>Pattern Recognition and Computer Vision</u>*, 10.1007/978-981-99-8469-5_22. 
 
-81\. Abao Xing, Henry H Y Tong, Songyan Liu, Xiaobing Zhai, Li Yu, <font title="red">Kefeng Li</font> (2023). The causal association between obesity and gastric cancer and shared molecular signatures: a large-scale Mendelian randomization and multi-omics analysis. *<u>Frontiers in Oncology</u>*, 26;13:1091958. doi:10.3389/fonc.2023.1091958. [Full Text](../PDF/2023/fonc.2023.1091958.pdf)
+81\. Abao Xing, Henry H Y Tong, Songyan Liu, Xiaobing Zhai, Li Yu, <font title="red">Kefeng Li</font> (2023). **The causal association between obesity and gastric cancer and shared molecular signatures: a large-scale Mendelian randomization and multi-omics analysis**. *<u>Frontiers in Oncology</u>*, 26;13:1091958. doi:10.3389/fonc.2023.1091958. [Full Text](../PDF/2023/fonc.2023.1091958.pdf)
 
 80\. Yuyang Sha, Xiaobing Zhai, Junrong Li, Weiyu Meng, Henry H.Y. Tong, <font title="red">Kefeng Li</font> (2023). **A novel lightweight deep learning fall detection system based on global-local attention and channel feature augmentation**. *<u>Interdisciplinary Nursing Research</u>*, 2(2), 68-75. doi:10.1097/NR9.0000000000000026. [Full Text](../PDF/2023/a_novel_lightweight_deep_learning_fall_detection.2.pdf)
 
