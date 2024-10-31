@@ -9,15 +9,15 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 # 2024
 
-105\. Guangxuan Chen, Huicong Yuan, Lumei Zhang, Jingran Zhang, <font title="red">Kefeng Li</font>, Xu Wang (2024). **[Pancreatic lipase immobilization on cellulose filter paper for inhibitors screening and network pharmacology study of anti-obesity mechanism](https://www.sciencedirect.com/science/article/pii/S0039914024011299)**. *<u>Talanta</u>* (IF: 5.603), 10.1016/j.talanta.2024.126750.
+105\. Guangxuan Chen, Huicong Yuan, Lumei Zhang, Jingran Zhang, <font title="red">Kefeng Li</font>, Xu Wang (2024). **[Pancreatic lipase immobilization on cellulose filter paper for inhibitors screening and network pharmacology study of anti-obesity mechanism](https://www.sciencedirect.com/science/article/pii/S0039914024011299)**. *<u>Talanta</u>* (IF: 5.603), 10.1016/j.talanta.2024.126750. [Full Text](../PDF/2024/1-s2.0-S0039914024011299-main.pdf)
 
 <img src='../PDF/2024/img/1-s2.0-S0039914024011299-ga1_lrg.jpg' style="max-height:300px">
 
 104\. Zhifan Li, Yanrong Li, Xinrong Tang, Abao Xing, Jianlin Lin, Junrong Li, Junjun Ji, Tiantian Cai, Ke Zheng, Sai Sachin Lingampelly, <font title="red">Kefeng Li</font> (2024). **[Causal Metabolomic and Lipidomic Analysis of Circulating Plasma Metabolites in Autism: A Comprehensive Mendelian Randomization Study with Independent Cohort Validation](https://www.mdpi.com/2218-1989/14/10/557)**. *<u>Metabolites</u>* (IF: 3.411), 10.3390/metabo14100557. [Full Text](../PDF/2024/metabolites-14-00557.pdf)
 
-103\. Can Xie, Xiaobing Zhai, Haiyang Chi, Wenxiang Li, Xiaolin Li, Yuyang Sha, <font title="red">Kefeng Li</font> (2024). **[A Novel Fusion Pruning-Processed Lightweight CNN for Local Object Recognition on Resource-Constrained Devices](https://ieeexplore.ieee.org/abstract/document/10707072/)**. *<u>IEEE Transactions on Consumer Electronics</u>* (IF: 4.000), 10.1109/TCE.2024.3475517.
+103\. Can Xie, Xiaobing Zhai, Haiyang Chi, Wenxiang Li, Xiaolin Li, Yuyang Sha, <font title="red">Kefeng Li</font> (2024). **[A Novel Fusion Pruning-Processed Lightweight CNN for Local Object Recognition on Resource-Constrained Devices](https://ieeexplore.ieee.org/abstract/document/10707072/)**. *<u>IEEE Transactions on Consumer Electronics</u>* (IF: 4.000), 10.1109/TCE.2024.3475517. [Full Text](../PDF/2024/A_Novel_Fusion_Pruning-Processed_Lightweight_CNN_for_Local_Object_Recognition_on_Resource-Constrained_Devices.pdf)
 
-102\. Wenjie Zhang, Xiaobing Zhai, Chan Zhang, Song Cheng, Chaoqing Zhang, Jinji Bai, Xuan Deng, Junjun Ji, Ting Li, Yu Wang, Henry HY Tong, Junfeng Li, <font title="red">Kefeng Li</font> (2024). **[Regional brain structural network topology mediates the associations between white matter damage and disease severity in first-episode, Treatment-naïve pubertal children with major depressive disorder](https://www.sciencedirect.com/science/article/pii/S0925492724000854)**. *<u>Psychiatry Research: Neuroimaging</u>* (IF: 2.020), 10.1016/j.pscychresns.2024.111862.
+102\. Wenjie Zhang, Xiaobing Zhai, Chan Zhang, Song Cheng, Chaoqing Zhang, Jinji Bai, Xuan Deng, Junjun Ji, Ting Li, Yu Wang, Henry HY Tong, Junfeng Li, <font title="red">Kefeng Li</font> (2024). **[Regional brain structural network topology mediates the associations between white matter damage and disease severity in first-episode, Treatment-naïve pubertal children with major depressive disorder](https://www.sciencedirect.com/science/article/pii/S0925492724000854)**. *<u>Psychiatry Research: Neuroimaging</u>* (IF: 2.020), 10.1016/j.pscychresns.2024.111862. 
 
 <img src='../PDF/2024/img/1-s2.0-S0925492724000854-ga1_lrg.jpg' style="max-height:300px">
 
