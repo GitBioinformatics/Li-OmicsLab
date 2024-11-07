@@ -9,6 +9,10 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 # 2024
 
+105\. Xiaobing Zhai, Henry H. Y. Tong, Chi Kin Lam, Abao Xing, Yuyang Sha, Gang Luo, Weiyu Meng, Junfeng Li, Miao Zhou, Yangxi Huang, Ling Shing Wong, Cuicui Wang, <font title="red">Kefeng Li</font> (2024). **[Association and causal mediation between marital status and depression in seven countries](http://www.nature.g.sjuku.top/articles/s41562-024-02033-0)**. *<u>Nature Human Behaviour</u>* (IF: 21.400), 10.1016/j.talanta.2024.126750. [Full Text](../PDF/2024/10.1038_s41562-024-02033-0.pdf)
+
+<img src='../PDF/2024/img/6729d075e4b03b5da6d19f46.jpg' style="max-height:300px">
+
 104\. Guangxuan Chen, Huicong Yuan, Lumei Zhang, Jingran Zhang, <font title="red">Kefeng Li</font>, Xu Wang (2024). **[Pancreatic lipase immobilization on cellulose filter paper for inhibitors screening and network pharmacology study of anti-obesity mechanism](https://www.sciencedirect.com/science/article/pii/S0039914024011299)**. *<u>Talanta</u>* (IF: 5.603), 10.1016/j.talanta.2024.126750. [Full Text](../PDF/2024/1-s2.0-S0039914024011299.pdf)
 
 <img src='../PDF/2024/img/1-s2.0-S0039914024011299-ga1_lrg.jpg' style="max-height:300px">
